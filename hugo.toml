@@ -1,0 +1,10 @@
+languageCode = 'en-us'
+title = 'Beeldenrijk - Speltherapie en beeldende therapie'
+theme = 'hugo-scroll'
+
+[params]
+
+favicon = "images/favicon.png"
+title_guard = true
+copyright = "Geeske Koldijk"
+hidedesignbyline = true
