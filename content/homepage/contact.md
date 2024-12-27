@@ -51,8 +51,7 @@ AGB code praktijk: 90067400.
 
 AGB code zorgverlener: 90108350.
 
-![NFG](/images/nfg-logo.png)
-
-![RBCZ](/images/rbcz-logo.jpg)
-
-![Beeldenrijk](/images/beeldenrijk-logo.jpg)
+|                                       |                              |
+| ------------------------------------- | ---------------------------- |
+| ![Wereldspel](/images/wereldspel.png) | ![NFG](/images/nfg-logo.png) |
+| ![RBCZ](/images/rbcz-logo.jpg)        |                              |
