@@ -18,4 +18,4 @@ Als Wereldspel Practitioner ben ik bevoegd het Wereldspel af te nemen binnen mij
 
 In mijn praktijk kan ik alle opgedane kennis uit studies en ervaring uit het leven inzetten om kinderen en hun ouders te begeleiden op hun weg.
 
-![Beeldenrijk](/images/beeldenrijk-logo.jpg)
+![Beeldenrijk](/images/beeldenrijk-logo-transparant.png)
