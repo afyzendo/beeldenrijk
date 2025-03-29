@@ -18,3 +18,5 @@ De beeldentaal van ieder mens is uniek en daarom is de vorm van de therapie alti
 - Regelmatig zal er een oudergesprek plaatsvinden om jullie te informeren en te betrekken bij het therapieproces en praktische adviezen mee te geven voor thuis.
 - Ouders zijn in principe niet aanwezig bij de therapiesessies. Wel is er volop mogelijkheid tot het stellen van vragen en overleg tijdens een traject. Een traject wordt altijd afgesloten met een oudergesprek.
 - Bij enkel ouderbegeleiding, een Sherborne Samenspel traject of therapie voor jongvolwassenen zal het traject er anders uitzien. We kijken samen wat er nodig is en hoe dat vormgegeven kan worden.
+
+![Dieren om tafel](images/dieren-om-tafel.jpeg)

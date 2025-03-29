@@ -27,3 +27,5 @@ Beeldenrijk heeft in het bijzonder kennis over en ervaring met hoogbegaafdheid e
 Beeldenrijk is er voor kinderen, jongeren en ouders om een stukje mee te lopen op hun weg door het leven. Werken vanuit positieve gezondheid, presentie en aandacht voor zingeving is vanzelfsprekend.
 
 Je kunt altijd contact opnemen bij vragen of om kennis te maken. Samen kunnen we kijken of de therapie of begeleiding geschikt is: geeske@beeldenrijk.nl
+
+![Meisje met schapen](images/meisje-met-schapen.jpg)

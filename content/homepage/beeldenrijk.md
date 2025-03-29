@@ -17,3 +17,5 @@ Ik blijf nieuwsgierig en heb me verder geschoold in verschillende therapeutische
 Als Wereldspel Practitioner ben ik bevoegd het Wereldspel af te nemen binnen mijn praktijk. Het Wereldspel is een non-verbaal onderzoeksinstrument waarmee cognitieve capaciteiten, sociaal-emotioneel welzijn en leerstrategie van een kind in beeld worden gebracht.
 
 In mijn praktijk kan ik alle opgedane kennis uit studies en ervaring uit het leven inzetten om kinderen en hun ouders te begeleiden op hun weg.
+
+![Tekening](images/kast.jpg)

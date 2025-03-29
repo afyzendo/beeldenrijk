@@ -20,3 +20,5 @@ Kinderen gebruiken beeldentaal tijdens het spelen, bewegen, tekenen, knutselen, 
 Actief beeldende therapie is geen “praat” therapie. Jongere kinderen komen vooral spelen, tekenen, bouwen, boetseren, verhalen maken of op een andere manier beeldend bezig zijn. In een fijne omgeving kunnen zij zich uiten en ervaringen verwerken. De beeldentaal blijft voor de jongere kinderen onbewust. Samen met de ouder(s)/opvoeder(s) kijk ik naar wat de beelden van het kind vertellen. Zo wordt steeds meer, bewust, zichtbaar wat hun kind nodig heeft.
 
 Jongeren worden zich steeds meer bewust van de eigen beeldentaal en naar behoefte kan een gesprek over de betekenis van het gemaakte werk bij de therapie horen. Zo leert de jongere zich steeds meer bewust en reflecterend in het dagelijks leven te bewegen.
+
+![Tekening](images/tekening.jpeg)
