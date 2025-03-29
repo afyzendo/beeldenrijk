@@ -39,7 +39,6 @@ AGB code praktijk: 90067400.
 
 AGB code zorgverlener: 90108350.
 
-|                                      |                             |
-| ------------------------------------ | --------------------------- |
-| ![Wereldspel](images/wereldspel.png) | ![NFG](images/nfg-logo.png) |
-| ![Koepel NAP](images/koepelnap.png)  |                             |
+|                             |                                     |                                      |     |
+| --------------------------- | ----------------------------------- | ------------------------------------ | --- |
+| ![NFG](images/nfg-logo.png) | ![Koepel NAP](images/koepelnap.png) | ![Wereldspel](images/wereldspel.png) |     |
