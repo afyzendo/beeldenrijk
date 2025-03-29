@@ -1,4 +1,5 @@
 languageCode = 'en-us'
+defaultContentLanguage = "nl"
 title = 'Beeldenrijk - Speltherapie en beeldende therapie'
 theme = 'hugo-scroll'
 baseUrl = 'https://afyzendo.github.io/beeldenrijk/'

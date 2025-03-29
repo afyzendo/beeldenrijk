@@ -14,8 +14,9 @@ Kinderen gebruiken beeldentaal tijdens het spelen, bewegen, tekenen, knutselen, 
 > Ik piep misschien of oehoe als de uilen  
 > ik knor of kwaak of kras of blaf of blaat  
 > want als ik nu te mensenachtig praat  
-> moet ik vast veel te mensenachtig huilen  
-> (gedicht: Joke van Leeuwen)
+> moet ik vast veel te mensenachtig huilen
+
+(gedicht: Joke van Leeuwen)
 
 Actief beeldende therapie is geen “praat” therapie. Jongere kinderen komen vooral spelen, tekenen, bouwen, boetseren, verhalen maken of op een andere manier beeldend bezig zijn. In een fijne omgeving kunnen zij zich uiten en ervaringen verwerken. De beeldentaal blijft voor de jongere kinderen onbewust. Samen met de ouder(s)/opvoeder(s) kijk ik naar wat de beelden van het kind vertellen. Zo wordt steeds meer, bewust, zichtbaar wat hun kind nodig heeft.
 
