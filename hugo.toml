@@ -7,5 +7,4 @@ baseUrl = 'https://afyzendo.github.io/beeldenrijk/'
 [params]
 
 favicon = "images/favicon.png"
-copyright = "Geeske Koldijk"
 hidedesignbyline = true
