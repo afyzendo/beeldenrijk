@@ -45,6 +45,8 @@ Beeldenrijk is aangesloten bij de Nederlandse Federatie Gezondheidszorg (NFG) on
 
 Beeldenrijk voldoet aan de Wet Kwaliteit Klachten en Geschillen Zorg via aansluiting bij de klachtenregeling van de NFG. Mochten we er samen niet uit komen bij een klacht dan kunt u via de volgende link meer informatie vinden over mogelijke stappen: [https://www.de-nfg.nl/niet-tevreden-over-je-hulpverlener/](https://de-nfg.nl/niet-tevreden-over-je-hulpverlener/)
 
+Hier is mijn [privacyreglement](/assets/Privacyreglement.pdf).
+
 AGB code praktijk: 90067400.
 
 AGB code zorgverlener: 90108350.
