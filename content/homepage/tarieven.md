@@ -53,4 +53,4 @@ AGB code zorgverlener: 90108350.
 
 |                             |                                     |                                      |     |
 | --------------------------- | ----------------------------------- | ------------------------------------ | --- |
-| ![NFG](images/nfg-logo.png) | ![Koepel NAP](images/koepelnap.png) | ![Wereldspel](images/wereldspel.png) |     |
+| ![NFG](images/nfg-logo.png) | ![Koepel NAP](images/koepelnap.png) | ![Wereldspel](images/wereldspel.png?v=3) |     |
