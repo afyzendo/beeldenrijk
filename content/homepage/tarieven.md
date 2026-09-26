@@ -30,6 +30,7 @@ Verhindering van een gemaakte afspraak graag uiterlijk 24 uur tevoren doorgeven.
 - Sherborne Samenspel trajecten worden bij kind en ouders thuis gedaan.
 - De praktijk is op de eerste verdieping en is niet rolstoel toegankelijk.
 - De dagen waarop therapie afspraken gemaakt kunnen worden zijn dinsdag, woensdag en donderdag.
+- Voor onderzoek, begeleiding op school en groepstherapie bij hoogbegaafdheid werkt Beeldenrijk structureel samen met [HB Onderwijs & Zorg](https://www.hb-onderwijsenzorg.nl/) (Boriana Kadiyska en Lisette de Kruik).
 
 Ik ben lid van de KvK onder nummer 55718337.
 
