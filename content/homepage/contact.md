@@ -14,8 +14,6 @@ geeske@beeldenrijk.nl
 
 Met vragen of een kennismakingsverzoek kunt u mij e-mailen. Ik zal zo spoedig mogelijk contact opnemen.
 
-**Aanmeldstop**: Er is momenteel een aanmeldstop tot 1 januari 2027.
-
-Er ontstaat regelmatig een wachttijd. De lengte van de wachttijd is mede afhankelijk van de gewenste dag en tijd waarop afspraken kunnen worden ingepland. Het streven is om therapie afspraken zoveel mogelijk in een wekelijks, twee wekelijks of maandelijks ritme op dezelfde dag en tijd in te plannen. Voor ouderbegeleiding en Sherborne samenspel kan dit er anders uitzien.
+De actuele wachttijd voor een intake is ongeveer drie maanden. De lengte van de wachttijd is mede afhankelijk van de gewenste dag en tijd waarop afspraken kunnen worden ingepland. Het streven is om therapie afspraken zoveel mogelijk in een wekelijks, twee wekelijks of maandelijks ritme op dezelfde dag en tijd in te plannen. Voor ouderbegeleiding en Sherborne samenspel kan dit er anders uitzien.
 
 ![Beeldenrijk](images/beeldenrijk-logo-transparant-cirkel.png)
